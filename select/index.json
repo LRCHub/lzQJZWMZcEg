@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "袖のキルト",
+  "base_artist": "ZUTOMAYO",
+  "createdAt": "2025-12-15T08:28:25.182968Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "袖のキルト",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_袖のキルト_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "袖のキルト",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_袖のキルト_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "袖のキルト - QUILT",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/03_袖のキルト_-_QUILT_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "袖のキルト (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/04_袖のキルト_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ずっと真夜中でいいのに。『袖のキルト』MV (ZUTOMAYO - QUILT)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/05_ずっと真夜中でいいのに。『袖のキルト』MV_(ZUTOMAYO_-_QUILT)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "袖のキルト (Instrumental)",
+      "artist": "Zutomayo",
+      "has_synced": true,
+      "path": "select/06_袖のキルト_(Instrumental)_Zutomayo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "袖のキルト - 本格中華喫茶・愛のペガサス ~羅武の香辛龍~ 2024 / LIVE",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/07_袖のキルト_-_本格中華喫茶・愛のペガサス_~羅武の香辛龍~_2024___LIVE_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "袖のキルト",
+      "artist": "ZUTOMAYO",
+      "has_synced": false,
+      "path": "select/pl_01_袖のキルト_ZUTOMAYO.txt"
+    }
+  ]
+}
